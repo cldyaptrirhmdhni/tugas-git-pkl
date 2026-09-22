@@ -1,0 +1,3 @@
+Namaa: [claudia putri rahmadhani]
+Kelas: [XII TKJ 1]
+Praktik Git dan Github
